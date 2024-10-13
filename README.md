@@ -15,7 +15,7 @@ This project is a clone of the popular food delivery platform, Swiggy, built usi
 
 - **Flutter**: For building cross-platform mobile applications.
 - **Dart**: The programming language used for Flutter development.
-- **Firebase**: For backend services, including authentication and database.
+- **Floor**: For backend services, including authentication and database.
 
 ## Getting Started
 
